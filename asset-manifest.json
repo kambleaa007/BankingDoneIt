@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BankingDoOnline/static/css/main.37ac6abb.chunk.css",
+    "main.js": "/BankingDoOnline/static/js/main.78c43aeb.chunk.js",
+    "main.js.map": "/BankingDoOnline/static/js/main.78c43aeb.chunk.js.map",
+    "runtime-main.js": "/BankingDoOnline/static/js/runtime-main.849b19bd.js",
+    "runtime-main.js.map": "/BankingDoOnline/static/js/runtime-main.849b19bd.js.map",
+    "static/css/2.8b98f154.chunk.css": "/BankingDoOnline/static/css/2.8b98f154.chunk.css",
+    "static/js/2.cb864aa4.chunk.js": "/BankingDoOnline/static/js/2.cb864aa4.chunk.js",
+    "static/js/2.cb864aa4.chunk.js.map": "/BankingDoOnline/static/js/2.cb864aa4.chunk.js.map",
+    "static/js/3.de2d9967.chunk.js": "/BankingDoOnline/static/js/3.de2d9967.chunk.js",
+    "static/js/3.de2d9967.chunk.js.map": "/BankingDoOnline/static/js/3.de2d9967.chunk.js.map",
+    "index.html": "/BankingDoOnline/index.html",
+    "static/css/2.8b98f154.chunk.css.map": "/BankingDoOnline/static/css/2.8b98f154.chunk.css.map",
+    "static/css/main.37ac6abb.chunk.css.map": "/BankingDoOnline/static/css/main.37ac6abb.chunk.css.map",
+    "static/js/2.cb864aa4.chunk.js.LICENSE.txt": "/BankingDoOnline/static/js/2.cb864aa4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.849b19bd.js",
+    "static/css/2.8b98f154.chunk.css",
+    "static/js/2.cb864aa4.chunk.js",
+    "static/css/main.37ac6abb.chunk.css",
+    "static/js/main.78c43aeb.chunk.js"
+  ]
+}
